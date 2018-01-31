@@ -1,0 +1,16 @@
+<p>Recently I ran across the common error that my Citrix Receiver for Linux doesn’t trust the CA certificate of my Citrix Access Gateway.</p>
+
+<p><img src="/uploads/xubuntuicaclientsslerror.png" alt="xubuntuicaclientsslerror.png" /></p>
+
+<p>To resolve this issue, please follow the instructions below:</p>
+<ol>
+  <li>Open your Access Gateway website with firefox</li>
+  <li>Click on the Lock left of https://… and choose “More Information”</li>
+  <li>Click on “View Certificate”</li>
+  <li>Change to the tab “Details”</li>
+  <li>Highlight your CA certificate in the Certificate Hierarchy field and click the “Export” button</li>
+  <li>Save the certificate (in X.509 Certificate (PEM) format) to your Desktop and give it the file extension .crt</li>
+  <li>sudo copy the file to /opt/Citrix/ICAClient/keystore/cacerts</li>
+</ol>
+
+<p>Enjoy your working Receiver!</p>
