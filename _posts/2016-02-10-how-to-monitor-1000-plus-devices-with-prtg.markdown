@@ -8,6 +8,8 @@ tags:
 - scale
 ---
 
+![webgui-new-device.png](/uploads/webgui-new-device.png)
+
 I recently had the pleasure to implement PRTG in an environment with 1000+ devices in a larger organization. This article summarizes what I learned and is supposed to give you ideas about what works and what doesn’t work for similar projects.
 
 **How to scale PRTG**
