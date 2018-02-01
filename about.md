@@ -4,10 +4,10 @@ permalink: "/about/"
 layout: page
 ---
 
-**About me**
+**About me** - 
 My name is Sebastian Stein. I work in [infosec](https://en.wikipedia.org/wiki/Information_security) with cloud technologies. On this blog I usually write about new ideas and things I learned while working with tech and reading stuff online. You can find out more [about.me](https://about.me/bersfo).
 
-**About this website**
+**About this website** - 
 This is the base Jekyll theme. I customized it just a tiny bit - Here is the code: [https://github.com/bersfo/bersfo.com](https://github.com/bersfo/bersfo.com)
 If you want to customize it even more, you can find Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
