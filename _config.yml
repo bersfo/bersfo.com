@@ -1,6 +1,8 @@
 ---
 title: bersfo
 timezone: America/Los_Angeles
+url: https://bersfo.com
+description: BERSFO blog - InfoSec, Automation and Risk Management
 collections:
   posts:
     title: Posts
