@@ -20,7 +20,8 @@ defaults:
     type: pages
   values:
     layout: page
-
+url: https://bersfo.com
+description: BERSFO blog - InfoSec, Automation and Risk Management
 permalink: pretty
 github_username: bersfo
 twitter_username: bersfo
