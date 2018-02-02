@@ -1,6 +1,8 @@
 ---
 title: 'ECS: clean up dead docker containers and dangling images'
 date: 2016-04-01 15:45:00 -07:00
+categories:
+- fixes
 tags:
 - aws
 - ecs
