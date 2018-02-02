@@ -1,6 +1,8 @@
 ---
 title: EC2 memory usage stats aren't working in Cloudwatch after cloning instance
 date: 2016-06-05 15:51:00 -07:00
+categories:
+- fixes
 tags:
 - cloudwatch
 - ec2
