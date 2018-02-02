@@ -20,7 +20,6 @@ defaults:
     type: pages
   values:
     layout: page
-
 permalink: pretty
 github_username: bersfo
 twitter_username: bersfo
